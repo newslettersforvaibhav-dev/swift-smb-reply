@@ -57,6 +57,24 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        // Clustal Demo Colors
+        clustal: {
+          dark: "hsl(var(--clustal-dark))",
+          "dark-surface": "hsl(var(--clustal-dark-surface))",
+          "dark-card": "hsl(var(--clustal-dark-card))",
+          "dark-border": "hsl(var(--clustal-dark-border))",
+          text: "hsl(var(--clustal-text))",
+          "text-muted": "hsl(var(--clustal-text-muted))",
+        },
+        whatsapp: {
+          green: "hsl(var(--whatsapp-green))",
+          "green-light": "hsl(var(--whatsapp-green-light))",
+          bg: "hsl(var(--whatsapp-bg))",
+          "bubble-in": "hsl(var(--whatsapp-bubble-in))",
+          "bubble-out": "hsl(var(--whatsapp-bubble-out))",
+        },
+        "ai-badge": "hsl(var(--ai-badge))",
+        success: "hsl(var(--success))",
       },
       borderRadius: {
         lg: "var(--radius)",
